@@ -1,2 +1,3 @@
-PyQt5
-requets
+Flask>=2.3.2
+rsa>=4.9
+ecdsa
